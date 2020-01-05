@@ -7,7 +7,7 @@ Para la instalación de esta extensión simplemente en Google Chrome:
 1. Accede a la pestaña extensiones
 2. Activa el modo desarrollador
 3. Pulsa sobre "Cargar extensión"
-4. Vé a Instagram y pulsa el botón
+4. Vé a Instagram.com dentro de Chrome y pulsa el botón de la extensión
 
 
 ### Pre-requisitos 📋
@@ -28,16 +28,12 @@ Para ejecutar la extensión vé a Instagram y pulsa el botón de Insta.pro.
 ## Construido con 🛠️
 * [Javascript Nativo]
 
-## Contribuyendo 🖇️
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 ## Wiki 📖
 No existe Wiki de este proyecto ya que ha sido un hobby para un vídeo.
 
-
 ## Autores ✒️
 * **Eduardo Fierro** - *Documentación y trabajon inicial* - [eduardofierropro](https://github.com/eduardofierropro)
-
 
 También puedes mirar la lista de todos los [contribuyentes]. 
 
@@ -47,4 +43,4 @@ No puede usarse comencialmente.
 Aunque tiene un uso real está creada con fines educativos para mostrar el funcionamiento de Javascript descrito en el vídeo de Youtube: https://www.youtube.com/watch?v=BfiQz5d_cJU
 
 ## Expresiones de Gratitud 🎁
-* Gracias a Viullanuevand https://gist.github.com/Villanuevand por la traducción de este léeme 🤓.
+* Gracias a @Villanuevand https://gist.github.com/Villanuevand por la traducción de este léeme 🤓.
