@@ -47,7 +47,4 @@ No puede usarse comencialmente.
 Aunque tiene un uso real está creada con fines educativos para mostrar el funcionamiento de Javascript descrito en el vídeo de Youtube: https://www.youtube.com/watch?v=BfiQz5d_cJU
 
 ## Expresiones de Gratitud 🎁
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
+* Gracias a Viullanuevand https://gist.github.com/Villanuevand por la traducción de este léeme 🤓.
