@@ -32,10 +32,16 @@ Para ejecutar la extensión vé a Instagram y pulsa el botón de Insta.pro.
 ## Wiki 📖
 No existe Wiki de este proyecto ya que ha sido un hobby para un vídeo.
 
-## Autores ✒️
-* **Eduardo Fierro** - *Documentación y trabajon inicial* - [eduardofierropro](https://github.com/eduardofierropro)
 
-También puedes mirar la lista de todos los [contribuyentes]. 
+## Autor ✒️
+**Eduardo Fierro** - *Documentación y trabajo inicial*
+* [Youtube](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
+* [Twitch](https://twitch.tv/eduardofierropro)
+* [TikTok](https://www.tiktok.com/@eduardofierro.pro?)
+* [Github](https://github.com/eduardofierropro)
+* [Instagram](https://instagram.com/eduardofierro.pro)
+* [Twitter](https://twitter.com/edfierropro)
+
 
 ## Licencia 📄
 GNU General Public License v3.0
@@ -43,5 +49,3 @@ No puede usarse comencialmente.
 
 Aunque tiene un uso real está creada con fines educativos para mostrar el funcionamiento de Javascript descrito en el vídeo de Youtube: https://www.youtube.com/watch?v=BfiQz5d_cJU
 
-## Expresiones de Gratitud 🎁
-* Gracias a @Villanuevand https://gist.github.com/Villanuevand por la traducción de este léeme 🤓.
