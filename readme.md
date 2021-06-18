@@ -26,7 +26,7 @@ Para la instalación de esta extensión simplemente en Google Chrome:
 Para ejecutar la extensión vé a Instagram y pulsa el botón de Insta.pro.
 
 ## Construido con 🛠️
-* [Javascript Nativo]
+* Javascript Nativo
 
 
 ## Wiki 📖
@@ -42,6 +42,10 @@ No existe Wiki de este proyecto ya que ha sido un hobby para un vídeo.
 * [Instagram](https://instagram.com/eduardofierro.pro)
 * [Twitter](https://twitter.com/edfierropro)
 
+## Master/Cursos donde sor profesor 📚
+Soy profesor en la Escuela Trazos donde impartimos Cursos y Másters sobre desarrollo web con una bolsa de trabajo con Alta Empleabilidad. ¡Píde información sobre los cursos donde soy profesor desde este enlace!
+
+👉[https://trazos.net/contacto-eduardofierro](https://trazos.net/contacto-eduardofierro)
 
 ## Licencia 📄
 GNU General Public License v3.0
